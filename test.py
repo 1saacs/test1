@@ -1,7 +1,24 @@
-a=5
-b=3
 
-print(a+b)
+
+
+x = 2021
+
+y = 1992
+
+
+
+print(x-y)
+
+birth_place = "Toronto"
+
+print(birth_place)
+
+a = "Please, enter your age."
+
+input(a)
+
+print("Welcome")
+
 
 
 
